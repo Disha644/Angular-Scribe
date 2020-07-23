@@ -1,0 +1,15 @@
+.btn-outline-light {
+    margin-right: 35px;
+}
+
+.navbar {
+    border-bottom: 1px solid #292b2c;
+    background-color: #212121;
+    width: 100%
+}
+
+.image {
+    width: 100px;
+    height: 40px;
+
+}
